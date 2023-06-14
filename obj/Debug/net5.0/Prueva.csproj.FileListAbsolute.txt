@@ -1,0 +1,16 @@
+D:\Majo\Prueva\bin\Debug\net5.0\Prueva.exe
+D:\Majo\Prueva\bin\Debug\net5.0\Prueva.deps.json
+D:\Majo\Prueva\bin\Debug\net5.0\Prueva.runtimeconfig.json
+D:\Majo\Prueva\bin\Debug\net5.0\Prueva.runtimeconfig.dev.json
+D:\Majo\Prueva\bin\Debug\net5.0\Prueva.dll
+D:\Majo\Prueva\bin\Debug\net5.0\Prueva.pdb
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.csproj.AssemblyReference.cache
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.AssemblyInfoInputs.cache
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.AssemblyInfo.cs
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.csproj.CoreCompileInputs.cache
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.dll
+D:\Majo\Prueva\obj\Debug\net5.0\refint\Prueva.dll
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.pdb
+D:\Majo\Prueva\obj\Debug\net5.0\Prueva.genruntimeconfig.cache
+D:\Majo\Prueva\obj\Debug\net5.0\ref\Prueva.dll
